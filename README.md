@@ -87,4 +87,4 @@ Use Stripe's test card: `4242 4242 4242 4242`, any future expiry, any CVC.
 | GET | /api/dashboard/stats | Admin analytics |
 
 ## Author
-Siddu (MCA)
+Mitturoy
